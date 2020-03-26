@@ -1,6 +1,6 @@
 # Microservice ETCchallenge2020-service-restapi
 
-[Autor JOAN]()
+***Autor JOAN***
 
 ## Espero que disfrute de este proyecto!
 ### Pero, antes revisemos un par de cosas que debe saber...
