@@ -59,6 +59,6 @@ Pues nada, solo detalles como que este es proyecto Maven y un microservicio con 
 Así también el proyecto contiene las pruebas unitarias de rigor con JUnit.
 
 ## Y para el final: ¿Hay algún frontend listo para consumir este RestAPI?
-Pues claro, tan solo [ingresa acá](https://github.com/ProfeJoan/ETCchallenge2020-frontend-Angular9.git) y podrá encontrar un front diseñado en ***Angular9*** que aprovecha este RestAPI.
+Pues claro, tan solo [ingresa acá](https://github.com/ProfeJoan/ETCchallenge2020-frontend-Angular9.git) y podrá encontrar un front diseñado en ***Angular 9*** que aprovecha este RestAPI.
 
 **Saludos cordiales.**
