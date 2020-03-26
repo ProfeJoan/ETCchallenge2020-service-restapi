@@ -1,0 +1,6 @@
+com/etc/etcchallenge2020persistenceservice/ejb/UsuarioEJBTest.class
+com/etc/etcchallenge2020persistenceservice/ejb/ClienteEJBTest.class
+com/etc/etcchallenge2020persistenceservice/rest/ParqueoEndpointTest.class
+com/etc/etcchallenge2020persistenceservice/ejb/ParqueoEJBTest.class
+com/etc/etcchallenge2020persistenceservice/rest/UsuarioEndpointTest.class
+com/etc/etcchallenge2020persistenceservice/rest/ClienteEndpointTest.class
