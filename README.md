@@ -55,6 +55,7 @@ CREATE TABLE facturas
 
 ## ¿Hay algún frontend listo para consumir este RestAPI?
 Pues claro, tan solo [ingresa acá](https://github.com/ProfeJoan/ETCchallenge2020-frontend-Angular9.git) y podrá encontrar un front diseñado en ***Angular 9*** que aprovecha este RestAPI.
+
 O si lo quieres con edición en línea [acá lo tiene también en StackBlitz](https://stackblitz.com/edit/angular-zp7p3r).
 
 ## ¿Qué más debe saber...?
